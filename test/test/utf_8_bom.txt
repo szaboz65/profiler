@@ -1,0 +1,3 @@
+﻿pi: π
+Árvíztűrő fúrógép
+utf8 with BOM

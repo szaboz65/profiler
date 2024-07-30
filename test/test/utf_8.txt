@@ -1,0 +1,5 @@
+pi: π
+Árvíztűrő tükörfúrógép
+utf8-without BOM
+
+
